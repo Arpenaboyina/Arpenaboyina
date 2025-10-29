@@ -12,8 +12,8 @@
 - 💼 **Research Intern @ IIIT Bangalore** – built and deployed admission portal modules improving efficiency by 25%.
 - 🌱 Currently learning **Node.js**, **Express.js**, and **DevOps (CI/CD, Docker)**
 - 💬 Ask me about **React.js**, **Frontend Development**, or **Full-Stack Projects**
-- 👨‍💻 All my projects are available at [**My Portfolio**](https://portfolio-website-iota-plum.vercel.app/)
 - 📫 Reach me at **rakesharpenaboyina2004@gmail.com**
+- Phone No: **9502508859"
 
 ---
 
