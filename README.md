@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpenaboyina&label=Profile%20views&color=0e75b6&style=flat" alt="arpenaboyina" /> </p>
 
-- 🔭 I’m currently working on [Travel Services](https://github.com/Arpenaboyina/Travel_Services)
 
 - 🌱 I’m currently learning **NodeJs,Express**
 
