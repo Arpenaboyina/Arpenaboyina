@@ -49,7 +49,7 @@ A full-stack outfit recommendation platform that suggests clothing based on user
 A car rental website where users can book vehicles, view availability, and manage bookings securely.  
 Built with **React.js**, **Node.js**, **Express.js**, and **MySQL**.
 
-#### 🔒 [Security Checker – Student Travel Monitoring System](https://github.com/Arpenaboyina/Security_Checker_project)
+#### 🔒 [Student_Outing_Management](https://github.com/CHIDARISAIKRISHNA/Student_Outing_Management)
 A web application that tracks student outings and sends automatic notifications for late returns.  
 Developed using **JavaScript**, **Node.js**, and **MySQL**.
 
