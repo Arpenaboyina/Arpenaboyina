@@ -32,13 +32,19 @@ I love exploring how software can make daily life easier — whether it’s deve
 | **Frontend** | React.js, HTML, CSS, Bootstrap |
 | **Backend** | Node.js, Express.js |
 | **Databases** | MySQL, MongoDB |
-| **Cloud & Tools** | AWS, Docker, Postman, Git, GitHub |
+| **Cloud & Tools** | AWS, Docker, Postman, Git, GitHub,Jenkins |
 | **CS Fundamentals** | Data Structures, Algorithms, OOP, OS, Computer Networks |
 
 ---
 
 ### 🚀 Projects
 
+**###** **Restaurant Management System – QR-Based Digital Ordering**
+- Designed a QR-based digital ordering platform supporting real-time order tracking and concurrent users.
+- Architected JWT-secured REST APIs with role-based access for customers, chefs, and owners.
+- Automated CI/CD pipelines using Jenkins, Docker, and Kubernetes, reducing deployment time by 40%.
+- Followed modular backend architecture to improve scalability and maintainability.
+- Tech Stack: React.js, Node.js, MongoDB, Docker, Kubernetes, Jenkins
 #### 🧥 [LoreZone – Personalized Outfit Recommendation System](https://github.com/Arpenaboyina/LoreZone)
 A full-stack outfit recommendation platform that suggests clothing based on user details like gender, height, skin tone, budget, and occasion.  
 - Integrated real-time offers from sites like Meesho & Flipkart.  
