@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-I’m **Arpenaboyina Rakesh**, a dedicated and curious **Computer Science Engineering student at IIIT Dharwad (CGPA: 8.33)**.  
+I’m **Arpenaboyina Rakesh**, a dedicated and curious **Computer Science Engineering student at IIIT Dharwad (CGPA: 8.42)**.  
 I’m passionate about **building real-world applications** and **solving challenging problems** using technology.  
 
 I have solved **500+ Data Structures and Algorithms (DSA) problems** on platforms like **LeetCode** and **CodeChef**, which helped me develop strong analytical and problem-solving skills.  
