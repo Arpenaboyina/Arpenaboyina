@@ -39,7 +39,7 @@ I love exploring how software can make daily life easier — whether it’s deve
 
 ### 🚀 Projects
 
-**###** **Restaurant Management System – QR-Based Digital Ordering**
+**###** **[Restaurant Management System – QR-Based Digital Ordering](https://github.com/Arpenaboyina/restaurant_app.git)**
 - Designed a QR-based digital ordering platform supporting real-time order tracking and concurrent users.
 - Architected JWT-secured REST APIs with role-based access for customers, chefs, and owners.
 - Automated CI/CD pipelines using Jenkins, Docker, and Kubernetes, reducing deployment time by 40%.
