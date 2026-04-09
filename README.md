@@ -55,7 +55,7 @@ A full-stack outfit recommendation platform that suggests clothing based on user
 A car rental website where users can book vehicles, view availability, and manage bookings securely.  
 Built with **React.js**, **Node.js**, **Express.js**, and **MySQL**.
 
-#### 🔒 [Student_Outing_Management](https://github.com/CHIDARISAIKRISHNA/Student_Outing_Management)
+#### 🔒 [Student_Outing_Management](https://github.com/Arpenaboyina/student-outing-management-system.git)
 A web application that tracks student outings and sends automatic notifications for late returns.  
 Developed using **JavaScript**, **Node.js**, and **MySQL**.
 
